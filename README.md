@@ -21,7 +21,9 @@ I solved 20 different Java problems, including:
 - ...and more (20 tasks in total)  
 
 Each task helped me practice **loops, conditions, methods, encapsulation, and error handling in (JAVA)**.  
-
+---
+**The functions that call each task or class etc.. most of them are commented because i did all the tasks in single project of java,
+you need to un comment and comment the function you want to use or test.**
 ---
 
 ###  Part 2 – University Management System
